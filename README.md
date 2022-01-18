@@ -45,7 +45,7 @@
 ---
 
 ## 🎧 Spotify Playing Now
-[![Spotify](https://spotify-now-playing-euodoe9my-juanms31.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](spotify-now-playing-juanms31.vercel.app)](https://open.spotify.com/user/USER_NAME)
 <!-- Social -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/juannmmss?color=%231DA1F2&logo=twitter&style=for-the-badge)]((https://twitter.com/juannmmss))
 
