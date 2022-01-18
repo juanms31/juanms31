@@ -1,6 +1,6 @@
 # Hi [juanms31][website] here ❤️!
 
-[<center><img src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zjajny8xddsfmi81149lf9bk0xy8ml4yun6z8cfn&rid=giphy.gif&ct=g"></center>](juanms31.github.io)
+[<img align="right" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zjajny8xddsfmi81149lf9bk0xy8ml4yun6z8cfn&rid=giphy.gif&ct=g"/>](juanms31.github.io)
 
 # **Juan Martinez**
 ## Técnico en Desarrollo de Aplicaciones Multiplataforma
