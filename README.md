@@ -21,7 +21,6 @@
 <img align="left" width="28px" src="https://img.icons8.com/officel/344/java-eclipse.png"/>]()
 
 </br>
----
 
 ## 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -46,9 +45,11 @@
 
 ## 🎧 Spotify Playing Now
 [![Spotify](https://spotify-now-playing-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/martinezjuanillo31)
+
 <!-- Social -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/juannmmss?color=%231DA1F2&logo=twitter&style=for-the-badge)]((https://twitter.com/juannmmss))
 
 ![GitHub followers](https://img.shields.io/github/followers/juanms31?style=social)
+
 <!-- LINKS -->
 [website]: http://juanms31.github.io/
