@@ -14,10 +14,8 @@
 
 
 
-
-
 <!-- Social -->
-![Twitter Follow](https://img.shields.io/twitter/follow/juannmmss?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juannmmss?color=%231DA1F2&logo=twitter&style=for-the-badge)]((https://twitter.com/juannmmss))
 
 ![GitHub followers](https://img.shields.io/github/followers/juanms31?style=social)
 <!--
