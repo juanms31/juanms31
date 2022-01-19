@@ -2,15 +2,14 @@
 
 [<img align="right" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zjajny8xddsfmi81149lf9bk0xy8ml4yun6z8cfn&rid=giphy.gif&ct=g"/>](juanms31.github.io)
 
-# **Juan Martinez**
-## Técnico en Desarrollo de Aplicaciones Multiplataforma
+## ⭐**Juan Martinez**
+
+#### _~Técnico en Desarrollo de Aplicaciones Multiplataforma~_
 
 ## 💻 Conocimientos Avanzados en:
 
 <!-- Iconos -->
-</br>
-
-[<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
+- [<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
 <img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
