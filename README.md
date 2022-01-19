@@ -7,25 +7,19 @@
 #### _Técnico en Desarrollo de Aplicaciones Multiplataforma_
 
 ## 💻 Conocimientos Avanzados en:
-
-<!-- Iconos -->
-[<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
-<img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/> 
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/> 
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/> 
-<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> 
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/> 
-<img align="left" width="28px" src="https://img.icons8.com/color/344/kali-linux.png"/> 
-<img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/> 
-<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
-<img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
-<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
-<img align="left" width="28px" src="https://img.icons8.com/color/344/kali-linux.png"/>
-<img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/>
-<img align="left" width="28px" src="https://img.icons8.com/officel/344/java-eclipse.png"/>]()
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left"> 
+    <a target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="java" width="40" height="40"/> </a> 
+    <a target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="SQL" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="linux" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/344/kali-linux.png" alt="kali" width="40" height="40"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/344/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> 
+</details>
 
 ## 📖 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
