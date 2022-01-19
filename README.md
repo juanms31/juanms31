@@ -3,7 +3,12 @@
 [<img align="right" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zjajny8xddsfmi81149lf9bk0xy8ml4yun6z8cfn&rid=giphy.gif&ct=g"/>](juanms31.github.io)
 
 ## ⭐**Juan Martinez**
+<<<<<<< HEAD
 #### _~Técnico en Desarrollo de Aplicaciones Multiplataforma~_
+=======
+
+#### _Técnico en Desarrollo de Aplicaciones Multiplataforma_
+>>>>>>> 7a066389a15d0d840962eae2b7754c9d190df2c3
 
 </br>
 
@@ -11,6 +16,7 @@
 
 
 <!-- Iconos -->
+<<<<<<< HEAD
 [<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
 <img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/> 
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/> 
@@ -19,6 +25,16 @@
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/> 
 <img align="left" width="28px" src="https://img.icons8.com/color/344/kali-linux.png"/> 
 <img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/> 
+=======
+[<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
+<img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
+<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
+<img align="left" width="28px" src="https://img.icons8.com/color/344/kali-linux.png"/>
+<img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/>
+>>>>>>> 7a066389a15d0d840962eae2b7754c9d190df2c3
 <img align="left" width="28px" src="https://img.icons8.com/officel/344/java-eclipse.png"/>]()
 
 </br>
@@ -38,6 +54,10 @@
 - Paciencia
 - Relaciones Interpersonales
 - Autoconfianza
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7a066389a15d0d840962eae2b7754c9d190df2c3
 
 </br>
 
@@ -47,6 +67,10 @@
 - Nuevas tecnologías
 - Fotografia
 - Viajes
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7a066389a15d0d840962eae2b7754c9d190df2c3
 
 </br>
 
