@@ -5,10 +5,8 @@
 ## ⭐**Juan Martinez**
 
 #### _Técnico en Desarrollo de Aplicaciones Multiplataforma_
-</br>
 
 ## 💻 Conocimientos Avanzados en:
-
 
 <!-- Iconos -->
 [<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
@@ -29,15 +27,10 @@
 <img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/>
 <img align="left" width="28px" src="https://img.icons8.com/officel/344/java-eclipse.png"/>]()
 
-</br>
-</br>
-
 ## 📖 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
-</br>
 
 ## 🧑‍🤝‍🧑**Competencias sociales**
 
@@ -47,16 +40,12 @@
 - Relaciones Interpersonales
 - Autoconfianza
 
-</br>
-
 ## ✈️ **Hobbies e intereses**
 - Programación
 - Ciberseguridad
 - Nuevas tecnologías
 - Fotografia
 - Viajes
-
-</br>
 
 ## 🎧 **Spotify Playing Now**
 [![Spotify](https://spotify-now-playing-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/martinezjuanillo31)
