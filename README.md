@@ -9,7 +9,7 @@
 ## 💻 Conocimientos Avanzados en:
 
 <!-- Iconos -->
-- [<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
+[<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
 <img align="left"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
 <img align="left" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
