@@ -20,11 +20,6 @@
     <a target="_blank"> <img src="https://img.icons8.com/color/344/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> 
 </details>
 
-## 📖 **Blog posts**
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 ## 🧑‍🤝‍🧑**Competencias sociales**
 
 - Empatía
