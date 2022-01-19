@@ -27,6 +27,8 @@
 <img align="left" width="28px" src="https://img.icons8.com/color/344/intellij-idea.png"/>
 <img align="left" width="28px" src="https://img.icons8.com/officel/344/java-eclipse.png"/>]()
 
+</br>
+
 ## 📖 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
 
