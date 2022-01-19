@@ -4,7 +4,7 @@
 
 ## ⭐**Juan Martinez**
 
-#### _~Técnico en Desarrollo de Aplicaciones Multiplataforma~_
+#### _Técnico en Desarrollo de Aplicaciones Multiplataforma_
 
 ## 💻 Conocimientos Avanzados en:
 
