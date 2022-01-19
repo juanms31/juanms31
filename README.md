@@ -32,7 +32,7 @@
 - Paciencia
 - Relaciones Interpersonales
 - Autoconfianza
----
+
 
 ## ✈️ Hobbies e intereses
 - Programación
@@ -40,7 +40,7 @@
 - Nuevas tecnologías
 - Fotografia
 - Viajes
----
+
 
 ## 🎧 Spotify Playing Now
 [![Spotify](https://spotify-now-playing-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/martinezjuanillo31)
