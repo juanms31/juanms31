@@ -42,9 +42,9 @@
 ## 🔗 **Connect with me**
 <p align="left">
 <a href="https://twitter.com/juannmmss" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="juannnmmss" height="30" width=""></a> 
-<a href="https://www.linkedin.com/in/jms31/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1642604539~hmac=0b89ffdae6f32d2368990a27c1b0c72b" alt="juanms31" height="30" width="" ></a> 
+<a href="https://www.linkedin.com/in/jms31/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" alt="juanms31" height="30" width="" ></a> 
 <a href="https://instagram.com/juannmmss" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="juannmmss" height="30" width="" /></a>
-<a href="mailto:juanms3199@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642604559~hmac=f25e0981c67f3f88092004e0e22171b2" alt="juannmmss" height="30" width=""></a>
+<a href="mailto:juanms3199@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-gmail-social-media-justicon-flat-justicon.png" alt="juannmmss" height="30" width=""></a>
 
 <!-- LINKS -->
 [website]: http://juanms31.github.io/
